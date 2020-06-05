@@ -8,6 +8,8 @@ try{
 }catch(PDOException $e){
 	echo "FALHOU".$e->getMessage();
 }
+
+//CONEXÃO COM O BANCO
 ?>
 
 <!-- CHAMAMENTO DO BOOTRAP-->
