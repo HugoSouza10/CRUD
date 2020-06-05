@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+
+
+}
+body .row{
+	height: 100vh;
+}
+
+#acoes{
+	width: 275px;
+}
+
+#adicionar .container{
+	width: 300px;
+}
+
+#adicionar form{
+	background: #454d55;
+	color: white;
+	padding: 29px
+}
+
+#adicionar form h4{
+	padding-bottom: 10px;
+}
+
+#adicionar form button{
+	width: 100%;
+	margin-top: 10px;
+}
